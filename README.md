@@ -10,7 +10,7 @@
 
 ## 🌟 Collaborators
 
-- [your name](https://github.com/YourName2) 👨‍💻
+- [Ambrose](https://github.com/AmbroseOtundo) 👨‍💻
 - [your name](https://github.com/YourName3) 👨‍💻
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [your name](https://github.com/YourName4) 👨‍💻
