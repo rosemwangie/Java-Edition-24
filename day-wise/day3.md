@@ -1,5 +1,3 @@
-31/01
+# 31/01
 
-## Conditionals
-
-## 
+### Day 3: Strings & Conditionals

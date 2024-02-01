@@ -10,11 +10,11 @@
 
 ## 🌟 Collaborators
 
-- [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [your name](https://github.com/YourName2) 👨‍💻
-- [your name](https://github.com/YourName3) 👩‍💻
+- [your name](https://github.com/YourName3) 👨‍💻
+- [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [your name](https://github.com/YourName4) 👨‍💻
-- [your name](https://github.com/YourName5) 👩‍💻
+- [your name](https://github.com/YourName5) 👨‍💻
 - [your name](https://github.com/YourName6) 👨‍💻
 
 ## 📆 Daily Topics
@@ -22,29 +22,35 @@
 <details open>
 <summary>100 days</summary>
 
-### Day 1: Introduction to Java
+### Day 1: Introduction to Java & Java Syntax Basics
 
 - Summary: A warm welcome to our Java journey. We explored the basics and got familiar with Java's history.
 - [Code Examples](./day-wise/day1-code-examples.md)
 - [Discussion](./day-wise/day1.md)
 
-### Day 2: Java Syntax Basics
+### Day 2: Data Types & Operators
 
-- Summary: Dive into the essential syntax and conventions of Java.
+- Summary: Dive into the Data Types & Operators in Java.
 - [Code Examples](./day-wise/day2-code-examples.md)
 - [Challenges](./day-wise/day2.md)
 
-### Day 3: Object-Oriented Programming
+### Day 3: Strings & Conditionals
 
-- Summary: Understanding the core concepts of OOP in Java.
+- Summary: Understanding Strings & Conditionals in Java.
 - [Code Examples](./day-wise/day3-code-examples.md)
 - [Discussion](./day-wise/day3.md)
 
 ### Day 4: Output and Input
 
-- Summary: Understanding the core concepts of OOP in Java.
-- [Code Examples](./day-wise/day3-code-examples.md)
+- Summary: Understanding Output and Input in Java.
+- [Code Examples](./day-wise/day4-code-examples.md)
 - [Discussion](./day-wise/day4.md)
+
+### Day 5: ...
+
+- Summary: ...
+- [Code Examples](...)
+- [Discussion](...)
 <!-- Continue adding daily topics -->
 
 </details>

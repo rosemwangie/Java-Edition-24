@@ -1,4 +1,4 @@
-package TinyProjects;
+// package TinyProjects;
 
 public class HelloWorld {
     public static void main(String[] args) {

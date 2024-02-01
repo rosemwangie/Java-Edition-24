@@ -1,1 +1,3 @@
-30/1
+# 30/1
+
+### Day 2: Data Types & Operators
