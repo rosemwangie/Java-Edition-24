@@ -17,7 +17,7 @@ Collaborators
 - [Kepha](https://github.com/AngelofVerdant) 👨‍💻
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [your name](https://github.com/YourName4) 👨‍💻
-- [your name](https://github.com/YourName5) 👨‍💻
+- [Timm](https://github.com/timontuitoek) 👨‍💻
 - [your name](https://github.com/YourName6) 👨‍💻
 
 ## 📆 Daily Topics
