@@ -18,7 +18,7 @@ Collaborators
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [your name](https://github.com/YourName4) 👨‍💻
 - [Timm](https://github.com/timontuitoek) 👨‍💻
-- [your name](https://github.com/YourName6) 👨‍💻
+- [Ish](https://github.com/ngetichishmael) 👨‍💻
 
 ## 📆 Daily Topics
 
