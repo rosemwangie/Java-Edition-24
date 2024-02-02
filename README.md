@@ -50,8 +50,9 @@ Collaborators
 ### Day 5: BigInteger and BigDecimal
 
 - Summary: Understaanding BigInteger and BigDecimal
-- [Code Examples](...)
-- [Discussion](...)
+- [Code Examples](./day-wise/day5-code-examples.md)
+- [Discussion](./day-wise/day5.md)
+
 <!-- Continue adding daily topics -->
 
 </details>
