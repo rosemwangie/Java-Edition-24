@@ -11,14 +11,12 @@
 ## 🌟 Collaborators
 
 Collaborators
+
 - [Ambrose](https://github.com/AmbroseOtundo) 👨‍💻
 - [CARTOON](https://github.com/CARTOON01) 👨‍💻
-- [your name](https://github.com/YourName2) 👨‍💻
-- [Kepha](https://github.com/AngelofVerdant) 👨‍💻
+- [Kepha](https://github.com/AngelofVerdant)👨‍💻
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
-- [your name](https://github.com/YourName4) 👨‍💻
-- [Timm](https://github.com/timontuitoek) 👨‍💻
-- [your name](https://github.com/YourName6) 👨‍💻
+- [Timm](https://github.com/timontuitoek) 👨‍💻 
 
 ## 📆 Daily Topics
 
