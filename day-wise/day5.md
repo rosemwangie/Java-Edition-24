@@ -1,5 +1,6 @@
+## 02/02
 
-<details>
+<details open>
 
 <summary>3.9 Big Numbers </summary>
 This section discusses handling very large or very small numbers in Java, which surpass the range of standard primitive data types using `BigInteger` and `BigDecimal`.

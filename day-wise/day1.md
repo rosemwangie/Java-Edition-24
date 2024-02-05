@@ -1,4 +1,4 @@
-# 29/1
+## 29/1
 
 ### Day 2: Introduction to Java & Java Syntax Basics
 <hr>

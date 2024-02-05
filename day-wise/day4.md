@@ -1,4 +1,4 @@
-# 01/02
+## 01/02
 
 <details open>
   <summary>3.7 Output and Input</summary>
