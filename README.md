@@ -27,32 +27,58 @@ Collaborators
 ### Day 1: Introduction to Java & Java Syntax Basics
 
 - Summary: A warm welcome to our Java journey. We explored the basics and got familiar with Java's history.
-- [Code Examples](./day-wise/day1-code-examples.md)
-- [Discussion](./day-wise/day1.md)
+- [Discussion && Code Examples](./day-wise/day1.md)
 
 ### Day 2: Data Types & Operators
 
 - Summary: Dive into the Data Types & Operators in Java.
-- [Code Examples](./day-wise/day2-code-examples.md)
-- [Challenges](./day-wise/day2.md)
+- [Discussion && Code Examples](./day-wise/day2.md)
 
 ### Day 3: Strings & Conditionals
 
 - Summary: Understanding Strings & Conditionals in Java.
-- [Code Examples](./day-wise/day3-code-examples.md)
-- [Discussion](./day-wise/day3.md)
+- [Discussion && Code Examples](./day-wise/day3.md)
 
 ### Day 4: Output and Input
 
 - Summary: Understanding Output and Input in Java.
-- [Code Examples](./day-wise/day4-code-examples.md)
-- [Discussion](./day-wise/day4.md)
+- [Discussion && Code Examples](./day-wise/day4.md)
 
 ### Day 5: BigInteger and BigDecimal
 
 - Summary: Understaanding BigInteger and BigDecimal
+- [Discussion && Code Examples](./day-wise/day5.md)
+
+### Day 6: Arrays - Introduction
+
+- Summary: Understaanding BigInteger and BigDecimal
+- [Discussion && Code Examples](./day-wise/day6.md)
+
+
+### Day 7: Pattern Printing - Challenge
+
+- Summary: Understaanding BigInteger and BigDecimal
+- [Discussion && Code Examples](./day-wise/day7.md)
+
+
+### Day 8: Arrays - part 2
+
+- Summary: Understaanding BigInteger and BigDecimal
+- [Discussion && Code Examples](./day-wise/day8.md)
+
+
+### Day 9: Arrays - part 3
+
+- Summary: Understaanding BigInteger and BigDecimal
 - [Code Examples](./day-wise/day5-code-examples.md)
-- [Discussion](./day-wise/day5.md)
+- [Discussion && Code Examples](./day-wise/day9.md)
+
+
+### Day 10: Objects && Class Introduction
+
+- Summary: Understaanding BigInteger and BigDecimal
+- [Discussion && Code Examples](./day-wise/day10.md)
+
 
 <!-- Continue adding daily topics -->
 

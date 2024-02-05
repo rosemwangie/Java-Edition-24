@@ -18,29 +18,28 @@
 # Solution 1
 
 ```java
-package org.example;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Main {
+public class Pattern {
     public static void main(String[] args) {
         System.out.println("How many stars do you want?");
-        Scanner scanner = new Scanner(System.in);
-        int noOfStars = scanner.nextInt();
+        try (Scanner scanner = new Scanner(System.in)) {
+            int noOfStars = scanner.nextInt();
 
-        for(int i = 1; i <= noOfStars; i++){ // row
-            for(int j = 0 ; j < i; j++){
-                System.out.print("*");
+            for (int i = 1; i <= noOfStars; i++) { // row
+                for (int j = 0; j < i; j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
             }
-            System.out.println();
-        }
-        for(int i = noOfStars - 1; i >= 0; i--){ // row
-            for(int j = 0 ; j < i; j++){
-                System.out.print("*");
+            for (int i = noOfStars - 1; i >= 0; i--) { // row
+                for (int j = 0; j < i; j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
             }
-            System.out.println();
         }
     }
 }
+
 ```
