@@ -17,6 +17,7 @@ Collaborators
 - [Kepha](https://github.com/AngelofVerdant)👨‍💻
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
 - [Timm](https://github.com/timontuitoek) 👨‍💻 
+- [Ish](https://github.com/ngetichishmael) 👨‍💻 
 
 ## 📆 Daily Topics
 
