@@ -11,14 +11,13 @@
 ## 🌟 Collaborators
 
 Collaborators
+
 - [Ambrose](https://github.com/AmbroseOtundo) 👨‍💻
 - [CARTOON](https://github.com/CARTOON01) 👨‍💻
-- [your name](https://github.com/YourName2) 👨‍💻
-- [Kepha](https://github.com/AngelofVerdant) 👨‍💻
+- [Kepha](https://github.com/AngelofVerdant)👨‍💻
 - [Rosa](https://github.com/rose-w-mwangi) 👩‍💻
-- [your name](https://github.com/YourName4) 👨‍💻
-- [Timm](https://github.com/timontuitoek) 👨‍💻
-- [your name](https://github.com/YourName6) 👨‍💻
+- [Timm](https://github.com/timontuitoek) 👨‍💻 
+- [Ish](https://github.com/ngetichishmael) 👨‍💻 
 
 ## 📆 Daily Topics
 
@@ -49,11 +48,12 @@ Collaborators
 - [Code Examples](./day-wise/day4-code-examples.md)
 - [Discussion](./day-wise/day4.md)
 
-### Day 5: ...
+### Day 5: BigInteger and BigDecimal
 
-- Summary: ...
-- [Code Examples](...)
-- [Discussion](...)
+- Summary: Understaanding BigInteger and BigDecimal
+- [Code Examples](./day-wise/day5-code-examples.md)
+- [Discussion](./day-wise/day5.md)
+
 <!-- Continue adding daily topics -->
 
 </details>
