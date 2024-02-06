@@ -26,7 +26,7 @@
 
 🎥 Watch this resources to understand more about a for each loop.
 
-![Youtube-Tutorial](https://youtu.be/UZOxpbtlVWg?si=GWMb_NqVlHvJlCEB)
+[Youtube-Tutorial](https://youtu.be/UZOxpbtlVWg?si=GWMb_NqVlHvJlCEB)
 
 </details>
 <!-- Continue adding your notes on The “for each” Loop and code snippets-->
@@ -97,7 +97,7 @@
 
 🎥 Watch this resources to understand more about array copying.
 
-![Youtube](https://youtu.be/_86FMWNfGOc?si=ER8QGQk2AaJyuekq)
+[Youtube](https://youtu.be/_86FMWNfGOc?si=ER8QGQk2AaJyuekq)
 
 > **_NOTE:_** The choice of method should align with your specific use case and whether you need a shallow or deep copy of the array.
 <!-- Continue adding your notes on Array Copying and code snippets-->
