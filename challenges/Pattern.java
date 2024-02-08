@@ -15,7 +15,7 @@ public class Pattern {
     public static void main(String[] args) {
         System.out.println("How many stars do you want?");
         try (Scanner scanner = new Scanner(System.in)) {
-            int noOfStars = scanner.nextInt();
+            int noOfStars = scanner.nextInt();90
 
             for (int i = 1; i <= noOfStars; i++) { // row
                 for (int j = 0; j < i; j++) {

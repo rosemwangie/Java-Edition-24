@@ -12,12 +12,13 @@
 
 <details open>
 <summary>Developers</summary>
+<br>
 
 ![Code](https://img.shields.io/badge/-Code-blue) [`@Ambrose`](https://github.com/AmbroseOtundo)
 
 ![Documentation](https://img.shields.io/badge/-Documentation-green) [`@Cartoon`](https://github.com/CARTOON01)
 
-![Cloud](https://img.shields.io/badge/-Cloud-ff69b4)[ `@Kepha`](https://github.com/AngelofVerdant)
+![Cloud](https://img.shields.io/badge/-Cloud-ff69b4)[`@Kepha`](https://github.com/AngelofVerdant)
 
 ![Code](https://img.shields.io/badge/-Code-blue) [`@Rosa`](https://github.com/rose-w-mwangi)
 
@@ -109,7 +110,9 @@
 - `/challenges`: Coding challenges and exercises.
 - `/resources`: Useful resources and references.
 
-
-<i>Let's learn, code, and grow together! 🌱 </i>
+<hr>
+<br>
+<align center></align>
+<p style="text-align: center;"><i>Let's learn, code, and grow together! 🌱 </i></p>
 
 </details>
