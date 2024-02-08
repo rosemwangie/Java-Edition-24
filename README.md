@@ -65,7 +65,7 @@
 - [Discussion && Code Examples](./day-wise/day5.md)
 </details>
 
-<details><summary>Day 6: Arrays - Introduction</summary>
+<details><summary>Day 6: Arrays - part 1</summary>
 
 - Summary: Introduction to Arrays
 - [Discussion && Code Examples](./day-wise/day6.md)
@@ -86,17 +86,27 @@
 
 <details><summary>Day 9: Arrays - part 3</summary>
  
-
 - Summary: Utilizing Arrays - part 3
 - [Code Examples](./day-wise/day5-code-examples.md)
 - [Discussion && Code Examples](./day-wise/day9.md)
 </details>
 
-<details><summary>Day 10: Objects && Classes</summary>
+<details><summary>Day 10: Array part 4</summary>
  
-
-- Summary: Delving into Objects && Class Introduction
+- Summary: Delving into Command-Line Parameters & Array Sorting
 - [Discussion && Code Examples](./day-wise/day10.md)
+</details>
+
+<details><summary>Day 11: Arrays part 5</summary>
+ 
+- Summary: Delving into Multidimensional Arrays
+- [Discussion && Code Examples](./day-wise/day11.md)
+</details>
+
+<details><summary>Day 12: Objects && Classes</summary>
+ 
+- Summary: Delving into Objects && Class 
+- [Discussion && Code Examples](./day-wise/day12.md)
 </details>
 
 <!-- Continue adding daily topics -->
