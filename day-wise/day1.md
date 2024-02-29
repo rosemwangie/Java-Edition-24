@@ -45,6 +45,7 @@ Example:
 ```java
  public static void main(String[] args){
     //code to be executed
+    System.out.println("Code to be executed");
   }
 ```
 ## 4. Putting it all together:

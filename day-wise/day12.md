@@ -1,7 +1,7 @@
-## 08/02
+## 09/02
 
 <details>
-<summary>Objects & Classes</summary>
+<summary>Chapter 4: Objects & Classes</summary>
 
 ## 4.1 Introduction to Object-Oriented Programming
 

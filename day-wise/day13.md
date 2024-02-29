@@ -1,11 +1,14 @@
-## Using Predefined Classes
-### Introduction
+## 10/02
+# Chapter 4: Using Predefined Classes
+## 4.1 Introduction to Object Oriented Programming
 In Java, we have predefined classes such as:
 		- Math library contains classes
 ``` java
 		 math.random()
  ```
-### Objects and Object Variables
+
+
+## 4.2.1 Objects and Object Variables
 To work with objects, you first construct them and specify their initial state. Then you apply methods to the objects.
 
 In the Java programming language, you use constructors to construct new instances. A constructor is a special method whose purpose is to construct and initialize objects.
@@ -79,7 +82,7 @@ Date startTime =new Date();
 has two parts. The expression *==new Date()==* makes an object of type *Date*, and its value is a reference to that newly created object. That reference is then stored in the *startTime* variable
 
 
-#### The *LocalDate* Class of the Java Library
+## 4.2.2 The *LocalDate* Class of the Java Library
 
 The library designers decided to separate the concerns of keeping time and attaching names to points in time. Therefore, the standard Java library contains two separate classes: the Date class, which represents a point in time, and the *LocalDate* class, which expresses days in the familiar calendar notation.
 
@@ -114,7 +117,7 @@ day = aThousandDaysLater.getDayOfMonth(); //26
 > [!NOTE] Local Time
 > The LocalDate class has encapsulated instance fields to maintain the date to which it is set.
 
-#### Mutator and Accessor Methods
+#### 4.2.3 Mutator and Accessor Methods
 
 Consider the plusDays method call that you saw in the preceding section: 
 ```java

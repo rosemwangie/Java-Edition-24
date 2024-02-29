@@ -8,7 +8,7 @@
   Welcome to our 100-day Java Edition 24' Journey! We are a team of passionate learners exploring Java.
 </p>
 
-## 🌟 Contributers
+## 🌟 Contributors
 
 <details open>
 <summary>Developers</summary>
@@ -20,7 +20,7 @@
 
 ![Cloud](https://img.shields.io/badge/-Cloud-ff69b4)[`@Kepha`](https://github.com/AngelofVerdant)
 
-![Code](https://img.shields.io/badge/-Code-blue) [`@Rosa`](https://github.com/rose-w-mwangi)
+![Code](https://img.shields.io/badge/-Code-blue) [`@Rosa`](https://github.com/rosemwangie)
 
 ![Testing](https://img.shields.io/badge/-Testing-yellowgreen) [`@Timm`](https://github.com/timontuitoek)
 
@@ -65,49 +65,58 @@
 - [Discussion && Code Examples](./day-wise/day5.md)
 </details>
 
-<details><summary>Day 6: Arrays - part 1</summary>
+<details><summary>Day 6 - Day 8: Arrays part 1</summary> 
 
-- Summary: Introduction to Arrays
-- [Discussion && Code Examples](./day-wise/day6.md)
+- [Day6](./day-wise/day6.md)
+- [Day7](./day-wise/day7.md)
+- [Day8](./day-wise/day8.md)
 </details>
 
-<details><summary>Day 7: Pattern Printing - Challenge</summary>
+<details><summary>Day 9 - Day 11: Arrays part 2</summary>
 
-- Summary: Exploring Pattern Printing - Challenge
-- [Discussion && Code Examples](./day-wise/day7.md)
+- [Day9](./day-wise/day9.md)
+- [Day10](./day-wise/day10.md)
+- [Day11](./day-wise/day11.md)
+- [Day12](./day-wise/day12.md)
 </details>
 
-<details><summary>Day 8: Arrays - part 2
-</summary>
- 
-- Summary: Applying Arrays - part 2
-- [Discussion && Code Examples](./day-wise/day8.md)
-</details>
 
-<details><summary>Day 9: Arrays - part 3</summary>
- 
-- Summary: Utilizing Arrays - part 3
-- [Code Examples](./day-wise/day5-code-examples.md)
-- [Discussion && Code Examples](./day-wise/day9.md)
-</details>
-
-<details><summary>Day 10: Array part 4</summary>
- 
-- Summary: Delving into Command-Line Parameters & Array Sorting
-- [Discussion && Code Examples](./day-wise/day10.md)
-</details>
-
-<details><summary>Day 11: Arrays part 5</summary>
- 
-- Summary: Delving into Multidimensional Arrays
-- [Discussion && Code Examples](./day-wise/day11.md)
-</details>
-
-<details><summary>Day 12: Objects && Classes</summary>
+<details><summary>Day 12 - Day 36: Objects && Classes</summary>
  
 - Summary: Delving into Objects && Class 
-- [Discussion && Code Examples](./day-wise/day12.md)
+- [Day13](./day-wise/day9.md)
+- [Day14](./day-wise/day10.md)
+- [Day15](./day-wise/day11.md)
+- [Day17](./day-wise/day17.md)
+- [Day18](./day-wise/day18.md)
+- [Day19](./day-wise/day19.md)
+- [Day20](./day-wise/day20.md)
+- [Day21](./day-wise/day21.md)
+- [Day22](./day-wise/day22.md)
+- [Day23](./day-wise/day23.md)
+- [Day24](./day-wise/day24.md)
+- [Day25](./day-wise/day25.md)
+- [Day26](./day-wise/day26.md)
+- [Day27](./day-wise/day27.md)
+- [Day28](./day-wise/day28.md)
+- [Day29](./day-wise/day29.md)
+- [Day30](./day-wise/day30.md)
+- [Day31](./day-wise/day31.md)
+- [Day32](./day-wise/day32.md)
+- [Day33](./day-wise/day33.md)
+- [Day34](./day-wise/day34.md)
+- [Day35](./day-wise/day35.md)
+- [Day36](./day-wise/day36.md)
+- [Day37](./day-wise/day37.md)
+
 </details>
+
+<details><summary>Day 37 - Day 45: Inheritance</summary>
+ 
+- Summary: Delving into Objects && Class 
+
+</details>
+
 
 <!-- Continue adding daily topics -->
 

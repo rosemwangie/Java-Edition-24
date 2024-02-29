@@ -1,3 +1,5 @@
+## 08/02
+
 ## Arrays
 Arrays hold a sequence of numbers marked by values and index
 

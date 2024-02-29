@@ -1,5 +1,4 @@
-## 06/02
-
+## 07/02
 
 <details open>
   <summary><strong>Chapter 3.10 - Arrays</strong></summary>
