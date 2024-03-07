@@ -8,7 +8,7 @@
 
 ## 🌟 Contributors
 
-<details open>
+<details >
 <summary>Developers</summary>
 <br>
 
@@ -29,73 +29,69 @@
 
 ## 📆 Daily Topics
 
-<details open>
-<summary>100 days</summary>
 
-<details><summary>Day 1 - Day 5: Introduction to Java & Java Syntax Basics</summary>
+## 100 days
 
-- [Day1:Introduction to Java & Java Syntax Basics](./day-wise/day1.md)
-- [Day2:Data Types & Operators](./day-wise/day2.md)
-- [Day3:Strings & Conditionals](./day-wise/day3.md)
-- [Day4:Output and Input](./day-wise/day4.md)
-- [Day5:BigInteger and BigDecimal](./day-wise/day5.md)
 
-</details>
+### Day 1 - Day 5: **Introduction to Java & Java Syntax Basics**
 
-<details><summary>Day 6 - Day 8: Arrays</summary> 
+- [Day1: **Introduction to Java & Java Syntax Basics**](./day-wise/day1.md)
+- [Day2: **Data Types & Operators**](./day-wise/day2.md)
+- [Day3: **Strings & Conditionals**](./day-wise/day3.md)
+- [Day4: **Output and Input**](./day-wise/day4.md)
+- [Day5: **BigInteger and BigDecimal**](./day-wise/day5.md)
 
-- [Day6: Declaring Arrays && Accessing Array Elements](./day-wise/day6.md)
-- [Day7: The “for each” Loop](./day-wise/day7.md)
-- [Day8: Array Copying](./day-wise/day8.md)
-- [Day9: Command-Line Parameters](./day-wise/day9.md)
-- [Day10: Array Sorting](./day-wise/day10.md)
-- [Day11: Multidimensional Arrays](./day-wise/day11.md)
-</details>
 
-<details><summary>Day 12 - Day 33: Objects && Classes</summary>
 
-- [Day12:Objects & Classes](./day-wise/day12.md)
-- [Day13:Using Predefined Classes](./day-wise/day13.md)
-- [Day14:Defining Your Own Classes in Java](./day-wise/day14.md)
-- [Day15:First Steps with Constructors](./day-wise/day15.md)
-- [Day16:Implicit and Explicit Parameters](./day-wise/day16.md)
-- [Day17:Coding challenge](./day-wise/day17.md)
-- [Day18:Coding challenge](./day-wise/day18.md)
-- [Day19:Private Methods](./day-wise/day19.md)
-- [Day20:Coding Challenge](./day-wise/day20.md)
-- [Day21:Factory Methods](./day-wise/day21.md)
-- [Day22:Method Parameters](./day-wise/day22.md)
-- [Day23:Object Construction](./day-wise/day23.md)
-- [Day24:Explicit Field Initialization](./day-wise/day24.md)
-- [Day25:Coding Challenge](./day-wise/day25.md)
-- [Day26:Coding Challenge](./day-wise/day26.md)
-- [Day27:Coding Challenge](./day-wise/day27.md)
-- [Day28:Coding challenge](./day-wise/day28.md)
-- [Day29:Records](./day-wise/day29.md)
-- [Day30:Packages](./day-wise/day30.md)
-- [Day31:JAR Files](./day-wise/day31.md)
-- [Day32:Documentation Comments](./day-wise/day32.md)
-- [Day33:Class Design Hints](./day-wise/day33.md)
-</details>
+### Day 6 - Day 8: Arrays
 
-<details><summary>Day 34 - Day 40: Inheritance</summary>
+- [Day6: **Declaring Arrays && Accessing Array Elements**](./day-wise/day6.md)
+- [Day7: **The “for each” Loop**](./day-wise/day7.md)
+- [Day8: **Array Copying**](./day-wise/day8.md)
+- [Day9: **Command-Line Parameters**](./day-wise/day9.md)
+- [Day10: **Array Sorting**](./day-wise/day10.md)
+- [Day11: **Multidimensional Arrays**](./day-wise/day11.md)
 
-- [Day34:Inheritance](./day-wise/day34.md)
-- [Day35:Polymorphism](./day-wise/day35.md)
-- [Day36:Coding Challenge](./day-wise/day36.md)
-- [Day37:Object: The Cosmic Superclass](./day-wise/day37.md)
+### Day 12 - Day 33: Objects && Classes
+
+- [Day12: **Objects & Classes**](./day-wise/day12.md)
+- [Day13: **Using Predefined Classes**](./day-wise/day13.md)
+- [Day14: **Defining Your Own Classes in Java**](./day-wise/day14.md)
+- [Day15: **First Steps with Constructors**](./day-wise/day15.md)
+- [Day16: **Implicit and Explicit Parameters**](./day-wise/day16.md)
+- [Day17: **Coding challenge**](./day-wise/day17.md)
+- [Day18: **Coding challenge**](./day-wise/day18.md)
+- [Day19: **Private Methods**](./day-wise/day19.md)
+- [Day20: **Coding Challenge**](./day-wise/day20.md)
+- [Day21: **Factory Methods**](./day-wise/day21.md)
+- [Day22: **Method Parameters**](./day-wise/day22.md)
+- [Day23: **Object Construction**](./day-wise/day23.md)
+- [Day24: **Explicit Field Initialization**](./day-wise/day24.md)
+- [Day25: **Coding Challenge**](./day-wise/day25.md)
+- [Day26: **Coding Challenge**](./day-wise/day26.md)
+- [Day27: **Coding Challenge**](./day-wise/day27.md)
+- [Day28: **Coding challenge**](./day-wise/day28.md)
+- [Day29: **Records**](./day-wise/day29.md)
+- [Day30: **Packages**](./day-wise/day30.md)
+- [Day31: **JAR Files**](./day-wise/day31.md)
+- [Day32: **Documentation Comments**](./day-wise/day32.md)
+- [Day33: **Class Design Hints**](./day-wise/day33.md)
+
+### Day 34 - Day 40: Inheritance
+
+- [Day34: **Inheritance**](./day-wise/day34.md)
+- [Day35: **Polymorphism**](./day-wise/day35.md)
+- [Day36: **Coding Challenge**](./day-wise/day36.md)
+- [Day37: **Object The Cosmic Superclass**](./day-wise/day37.md)
 
 <!-- Continue adding daily topics -->
 
-</details>
-
-</details>
 
 ## 📂 Repository Structure
 
-- `/day-wise`: Contains daily learning materials and discussions.
-- `/code-examples`: Code examples and solutions.
-- `/resources`: Useful resources and references.
+- **`/day-wise`**: Contains daily learning materials and discussions.
+- **`/code-examples`**: Code examples and solutions.
+- **`/resources`**: Useful resources and references.
 
 <hr>
 <br>
