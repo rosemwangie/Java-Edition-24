@@ -1,11 +1,9 @@
 <h1 align="center">Java Edition 24' 🚀</h1>
-
 <p align="center">
   <img src="images/java.png" alt="Java Logo" width="50">
 </p>
-
 <p align="center">
-  Welcome to our 100-day Java Edition 24' Journey! We are a team of passionate learners exploring Java.
+  Welcome to our 100-day Java Edition 24' Journey! We are a team of passionate learners exploring Java & it's Eco System.
 </p>
 
 ## 🌟 Contributors
@@ -34,91 +32,62 @@
 <details open>
 <summary>100 days</summary>
 
-<details><summary>Day 1: Introduction to Java & Java Syntax Basics</summary>
+<details><summary>Day 1 - Day 5: Introduction to Java & Java Syntax Basics</summary>
 
-- Summary: A warm welcome to our Java journey. We explored the basics and got familiar with Java's history.
-- [Discussion && Code Examples](./day-wise/day1.md)
-
-</details>
-
-<details><summary>Day 2: Data Types & Operators</summary>
-
-- Summary: Dive into the Data Types & Operators in Java.
-- [Discussion && Code Examples](./day-wise/day2.md)
-</details>
-
-<details><summary>Day 3: Strings & Conditionals</summary>
-
-- Summary: Understanding Strings & Conditionals in Java.
-- [Discussion && Code Examples](./day-wise/day3.md)
-</details>
-
-<details><summary>Day 4: Output and Input</summary>
-
-- Summary: Understanding Output and Input.
-- [Discussion && Code Examples](./day-wise/day4.md)
-</details>
-
-<details><summary>Day 5: BigInteger and BigDecimal</summary>
- 
-- Summary: Understanding BigInteger and BigDecimal
-- [Discussion && Code Examples](./day-wise/day5.md)
-</details>
-
-<details><summary>Day 6 - Day 8: Arrays part 1</summary> 
-
-- [Day6](./day-wise/day6.md)
-- [Day7](./day-wise/day7.md)
-- [Day8](./day-wise/day8.md)
-</details>
-
-<details><summary>Day 9 - Day 11: Arrays part 2</summary>
-
-- [Day9](./day-wise/day9.md)
-- [Day10](./day-wise/day10.md)
-- [Day11](./day-wise/day11.md)
-- [Day12](./day-wise/day12.md)
-</details>
-
-
-<details><summary>Day 12 - Day 36: Objects && Classes</summary>
- 
-- Summary: Delving into Objects && Class 
-- [Day13](./day-wise/day9.md)
-- [Day14](./day-wise/day10.md)
-- [Day15](./day-wise/day11.md)
-- [Day17](./day-wise/day17.md)
-- [Day18](./day-wise/day18.md)
-- [Day19](./day-wise/day19.md)
-- [Day20](./day-wise/day20.md)
-- [Day21](./day-wise/day21.md)
-- [Day22](./day-wise/day22.md)
-- [Day23](./day-wise/day23.md)
-- [Day24](./day-wise/day24.md)
-- [Day25](./day-wise/day25.md)
-- [Day26](./day-wise/day26.md)
-- [Day27](./day-wise/day27.md)
-- [Day28](./day-wise/day28.md)
-- [Day29](./day-wise/day29.md)
-- [Day30](./day-wise/day30.md)
-- [Day31](./day-wise/day31.md)
-- [Day32](./day-wise/day32.md)
-- [Day33](./day-wise/day33.md)
-- [Day34](./day-wise/day34.md)
-- [Day35](./day-wise/day35.md)
-- [Day36](./day-wise/day36.md)
-- [Day37](./day-wise/day37.md)
+- [Day1:Introduction to Java & Java Syntax Basics](./day-wise/day1.md)
+- [Day2:Data Types & Operators](./day-wise/day2.md)
+- [Day3:Strings & Conditionals](./day-wise/day3.md)
+- [Day4:Output and Input](./day-wise/day4.md)
+- [Day5:BigInteger and BigDecimal](./day-wise/day5.md)
 
 </details>
 
-<details><summary>Day 37 - Day 45: Inheritance</summary>
- 
-- Summary: Delving into Objects && Class 
+<details><summary>Day 6 - Day 8: Arrays</summary> 
 
+- [Day6: Declaring Arrays && Accessing Array Elements](./day-wise/day6.md)
+- [Day7: The “for each” Loop](./day-wise/day7.md)
+- [Day8: Array Copying](./day-wise/day8.md)
+- [Day9: Command-Line Parameters](./day-wise/day9.md)
+- [Day10: Array Sorting](./day-wise/day10.md)
+- [Day11: Multidimensional Arrays](./day-wise/day11.md)
 </details>
 
+<details><summary>Day 12 - Day 33: Objects && Classes</summary>
+
+- [Day12:Objects & Classes](./day-wise/day12.md)
+- [Day13:Using Predefined Classes](./day-wise/day13.md)
+- [Day14:Defining Your Own Classes in Java](./day-wise/day14.md)
+- [Day15:First Steps with Constructors](./day-wise/day15.md)
+- [Day16:Implicit and Explicit Parameters](./day-wise/day16.md)
+- [Day17:Coding challenge](./day-wise/day17.md)
+- [Day18:Coding challenge](./day-wise/day18.md)
+- [Day19:Private Methods](./day-wise/day19.md)
+- [Day20:Coding Challenge](./day-wise/day20.md)
+- [Day21:Factory Methods](./day-wise/day21.md)
+- [Day22:Method Parameters](./day-wise/day22.md)
+- [Day23:Object Construction](./day-wise/day23.md)
+- [Day24:Explicit Field Initialization](./day-wise/day24.md)
+- [Day25:Coding Challenge](./day-wise/day25.md)
+- [Day26:Coding Challenge](./day-wise/day26.md)
+- [Day27:Coding Challenge](./day-wise/day27.md)
+- [Day28:Coding challenge](./day-wise/day28.md)
+- [Day29:Records](./day-wise/day29.md)
+- [Day30:Packages](./day-wise/day30.md)
+- [Day31:JAR Files](./day-wise/day31.md)
+- [Day32:Documentation Comments](./day-wise/day32.md)
+- [Day33:Class Design Hints](./day-wise/day33.md)
+</details>
+
+<details><summary>Day 34 - Day 40: Inheritance</summary>
+
+- [Day34:Inheritance](./day-wise/day34.md)
+- [Day35:Polymorphism](./day-wise/day35.md)
+- [Day36:Coding Challenge](./day-wise/day36.md)
+- [Day37:Object: The Cosmic Superclass](./day-wise/day37.md)
 
 <!-- Continue adding daily topics -->
+
+</details>
 
 </details>
 
@@ -126,7 +95,6 @@
 
 - `/day-wise`: Contains daily learning materials and discussions.
 - `/code-examples`: Code examples and solutions.
-- `/challenges`: Coding challenges and exercises.
 - `/resources`: Useful resources and references.
 
 <hr>

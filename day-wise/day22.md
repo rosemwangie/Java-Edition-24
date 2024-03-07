@@ -1,7 +1,5 @@
 ## 19/02
 
-<details open> 
-<summary>
 
 # 4.5 Method Parameters
 
@@ -17,6 +15,3 @@ public void varArgsMethod(String... strings) {
     }
 }
 ```
-
-</summary>
-</details>

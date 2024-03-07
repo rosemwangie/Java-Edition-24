@@ -1,6 +1,6 @@
 ## 29/1
 
-### Day 2: Introduction to Java & Java Syntax Basics
+### Introduction to Java & Java Syntax Basics
 <hr>
 
 <b>A quick overview of Java and its importance.</b>

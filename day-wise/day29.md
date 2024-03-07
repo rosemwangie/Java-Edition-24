@@ -1,47 +1,72 @@
-## 26/02
+## 25/02
 
+# 4.7 Records
+Records in Java are a special kind of class that is concise and easy to use for data carrying objects. They are particularly useful for classes that are meant to aggregate a small amount of data and don't need to modify it - essentially, data transfer objects (DTOs).
 
-# 4.6 Object Construction
+## 4.7.1 The Record Concept
+- A record is a final class that automatically implements equals(), hashCode(), and toString() based on the whole state of the record. The state is defined by the record's components, which are the fields specified in the record's declaration.
+- Records are a special type of class in Java introduced in Java 16. 
+- They are a quick way of creating data-carrying classes without having to write boilerplate code.
 
-## 4.6.1 Overloading
-Method overloading allows a class to have more than one constructor with different parameter lists. Each constructor can initialize objects in different ways.
 
 
 ```java
-public class Employee {
-    Employee() {
-        // default constructor
-    }
+//Example 1
+public record User(String name, int age) {}
 
-    Employee(String name) {
-        // constructor with one parameter
-    }
+// Example 2
+public record Book(String title, String author) {}
 
-    Employee(int age int year) {
-        // constructor with one parameter
-    }
-}
+```
+> [!NOTE]
+> This single line of code declares a record with two components: title and author. Java automatically generates a public constructor, along with equals(), hashCode(), and toString() methods that consider both title and author in their computations.e
+
+## 4.7.2 Constructors: Canonical, Custom, and Compact
+- Records support different types of constructors to initialize their state.
+
+- **Canonical Constructor**: Automatically provided by Java for records, which takes all fields as parameters.
+```java
+public record Book(String title, String author) {}
+// The canonical constructor is Book(String title, String author)
+
 ```
 
-## 4.6.2 Default Field Initialization
-When a class is instantiated, class fields are automatically initialized with default values (0 for numeric types, false for boolean, null for object references) unless explicitly initialized.
+- **Custom Constructor**: You can define your own constructor to validate parameters or perform additional actions.
 
 ```java
-public class Rectangle {
-    private int length = 20; // Explicit initialization
-    private int width; // width will be initialized to 0 by default
-    private int name; // null
-    private boolean isTrue; // false
-
+public record Book(String title, String author) {
+    public Book {
+        if (title == null || author == null) {
+            throw new IllegalArgumentException("title and author must not be null");
+        }
+        this.title = title.trim(); // Normalize data by trimming whitespace
+        this.author = author.trim();
+    }
 }
+
 ```
-## 4.6.3 The Constructor with No Arguments
-A constructor without arguments is called a no-argument constructor. It's often used to initialize objects with default values.
+
+- **Compact Constructor**: A constructor without parameters list, used in records to validate or process fields without repeating parameter names.
 
 ```java
-public class Book {
-    Book() {
-        // no-argument constructor
+public record Book(String title, String author) {
+    public Book {
+        // Parameters title and author are implicitly declared
+        if (title == null || author == null) {
+            throw new IllegalArgumentException("title and author must not be null");
+        }
+        title = title.trim(); // Directly modify the implicit parameters
+        author = author.trim();
+    }
+}
+
+```
+
+```java
+public record Employee(String name, int id) {
+    // Custom Constructor
+    public Employee {
+        if (id <= 0) throw new IllegalArgumentException("ID must be positive.");
     }
 }
 ```

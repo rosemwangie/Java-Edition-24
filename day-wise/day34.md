@@ -1,12 +1,9 @@
-## 02/03
+## 01/03
 
+# 5: Inheritance
 
-<details open> 
-<summary>
+## 5.1 Classes, Superclasses, and Subclasses
+### 5.1.1 Defining Subclasses
+### 5.1.2 Overriding Methods 
+### 5.1.3 Subclass Constructors ### 5.1.4 Inheritance Hierarchies 
 
-# 4.9 JAR Files
-## 4.9.1 Creating JAR files
-## 4.9.2 The Manifest
-
-</summary>
-</details>

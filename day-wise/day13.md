@@ -1,5 +1,5 @@
 ## 10/02
-# Chapter 4: Using Predefined Classes
+# Using Predefined Classes
 ## 4.1 Introduction to Object Oriented Programming
 In Java, we have predefined classes such as:
 		- Math library contains classes

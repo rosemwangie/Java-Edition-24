@@ -1,8 +1,3 @@
-## 24/02
-
-<details open> 
-<summary>
+## 23/02
 
 ## coding challenge
-</summary>
-</details>
