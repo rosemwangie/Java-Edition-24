@@ -1,3 +1,5 @@
+package codeExamples;
+
 public class codepoint {
     public static void main(String[] args){
         //CODE POINTS and CODE UNITS

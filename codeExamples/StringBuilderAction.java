@@ -1,3 +1,5 @@
+package codeExamples;
+
 public class StringBuilderAction{
     public static void main(String[] args) {
         // Construct an empty StringBuilder
