@@ -1,4 +1,4 @@
-// package code-examples;
+ package codeExamples;
 
 public class Classes {
 
